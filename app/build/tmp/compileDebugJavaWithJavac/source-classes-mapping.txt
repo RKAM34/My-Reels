@@ -1,0 +1,10 @@
+com/RohilKamath/youtubeplayer/standaloneactivity.java
+ com.RohilKamath.youtubeplayer.standaloneactivity
+com/RohilKamath/youtubeplayer/BuildConfig.java
+ com.RohilKamath.youtubeplayer.BuildConfig
+com/RohilKamath/youtubeplayer/MainActivity.java
+ com.RohilKamath.youtubeplayer.MainActivity
+com/RohilKamath/youtubeplayer/YoutubeActivity.java
+ com.RohilKamath.youtubeplayer.YoutubeActivity
+ com.RohilKamath.youtubeplayer.YoutubeActivity$1
+ com.RohilKamath.youtubeplayer.YoutubeActivity$2
